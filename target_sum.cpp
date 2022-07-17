@@ -37,6 +37,9 @@ int ceil_div(int a, int b) {
 
 string longestPalinSubstring(string str) {
     int n = str.length();
+    for (int i = 0; i < n; ++i) {
+        
+    }
 
 }   
     
